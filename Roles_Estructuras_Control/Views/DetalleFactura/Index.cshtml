@@ -1,0 +1,154 @@
+﻿@model IEnumerable<Roles_Estructuras_Control.Models.DetalleFacturaModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+<div class="row-cols-2">
+    <div class="col-md-6">
+        <label class="control-label">Clientes</label>
+        <select class="form-select" id="listaClientes" onchange="unCliente()">
+
+        </select>
+        <button onclick="nuevoCliente()" class="btn btn-outline-primary"><i class="icon-user-plus"></i></button>
+        <input hidden value="0" id="nuevoCliente"/>
+    </div>
+    <div class="col-md-6">
+        <table class="table table-bordered table-responsive table-striped">
+            <tr>
+                <td><label>Nombre del Cliente</label></td>
+                <td><label>Direccion</label></td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="input-group">
+                        <i class="icon-user"></i>
+                        <input class="form-control" id="NombreCliente" disabled="disabled"/>
+                    </div>
+                </td>
+                <td>
+                    <i class="icon-address-book"></i>
+                    <input class="form-control" id="DireccionCliente" disabled="disabled" />
+                </td>
+            </tr>
+            <tr>
+                <td><label>Telefono</label></td>
+                <td><label>Correo Electonico</label></td>
+            </tr>
+            <tr>
+                <td>
+                    <i class="icon-phone-hang-up"></i>
+                    <input class="form-control" id="TelefonoCliente" disabled="disabled" />
+                </td>
+                <td>
+                    <i class="icon-envelop"></i>
+                    <input class="form-control" id="EmailCliente" disabled="disabled" />
+                    </td>
+            </tr>
+        </table>
+        <button onclick="limpiarcajas()" id="cancelar" class="btn btn-outline-danger">Cancelar</button>
+
+        <button onclick="listaProductos()" class="btn btn-outline-success" data-bs-toggle="modal"
+                data-bs-target="#productos">Agregar Producto</button>
+        <table>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Nombre Producto</th>
+                    <th>Cantidad</th>
+                    <th>P/U</th>
+                    <th>Total</th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+<p>
+    <a asp-action="Create">Crear Nuevo</a>
+</p>
+<table class="table table-responsive table-bordered table-striped" id="tablaclientes">
+    <thead>
+        <tr>
+            <th>
+                #
+            </th>
+            <th>
+               Cantidad
+            </th>
+            <th>
+               Nombre Producto
+            </th>
+            <th>
+               Precio Unitario
+            </th>
+            <th>
+                Total
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        
+       
+
+    </tbody>
+</table>
+
+
+
+
+
+
+<div class="modal fade" id="productos" tabindex="-1" aria-labelledby="Productos" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Lista de Productos</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                    <div class="mb-3">
+                        <table class="table table-bordered">
+                            <tr>
+                                <td>Buscador</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <input type="text" id="buscador" value="" class="form-control" />
+                                    <button class="btn btn-outline-info" onclick="buscarProducto()">Buscar</button>
+                                </td>
+                            </tr>
+                          <tr>
+                              <table class="table table-bordered table-responsive table-striped">
+                                  <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Nombre Producto</th>
+                                        <th>Cantidad</th>
+                                        <th>Valor</th>
+
+                                    </tr>
+                                  </thead>
+                                  <tbody id="cuerpoproducto">
+                                      
+                                  </tbody>
+                              </table>
+                          </tr>
+                        </table>
+                    </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="btn_agregar"  >Agregar Producto</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\wwwroot\\js\\buscadorproductos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:wwwroot\\js\\buscadorproductos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\models\\detallefacturamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:models\\detallefacturamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\models\\productomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:models\\productomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\views\\detallefactura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:views\\detallefactura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\views\\detallefactura\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:views\\detallefactura\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\wwwroot\\js\\detallefactura.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:wwwroot\\js\\detallefactura.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:views\\productos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:views\\productos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\models\\stockmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:models\\stockmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\models\\dto\\dtoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:models\\dto\\dtoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\migrations\\20250323210952_initt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:migrations\\20250323210952_initt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|c:\\users\\user\\onedrive - uniandes\\semestres\\nivel 6\\fase_2\\programacion web\\deberes programas\\semana5\\roles_estructuras_control\\migrations\\20250323205826_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86987EFF-CE82-45EA-8192-27C7F56C3947}|Roles_Estructuras_Control.csproj|solutionrelative:migrations\\20250323205826_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T04:52:06.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuscadorProductos.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\wwwroot\\js\\BuscadorProductos.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\BuscadorProductos.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\wwwroot\\js\\BuscadorProductos.js",
+              "RelativeToolTip": "wwwroot\\js\\BuscadorProductos.js",
+              "ViewState": "AgIAACcBAAAAAAAAAAAkwDIBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T03:10:35.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\DetalleFactura\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetalleFactura\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\DetalleFactura\\Create.cshtml",
+              "RelativeToolTip": "Views\\DetalleFactura\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T02:55:31.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Productos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Productos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T02:19:09.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Productos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Productos\\Details.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T02:17:25.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Productos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Productos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T02:17:17.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAIMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T02:17:14.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Productos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Productos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T02:17:12.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StockModels.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Models\\StockModels.cs",
+              "RelativeDocumentMoniker": "Models\\StockModels.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Models\\StockModels.cs",
+              "RelativeToolTip": "Models\\StockModels.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:16:34.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleFacturaModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Models\\DetalleFacturaModel.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleFacturaModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Models\\DetalleFacturaModel.cs",
+              "RelativeToolTip": "Models\\DetalleFacturaModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:15:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:15:22.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAANsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:12:49.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoModels.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Models\\ProductoModels.cs",
+              "RelativeDocumentMoniker": "Models\\ProductoModels.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Models\\ProductoModels.cs",
+              "RelativeToolTip": "Models\\ProductoModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:12:28.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DtoProducto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Models\\Dto\\DtoProducto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\DtoProducto.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Models\\Dto\\DtoProducto.cs",
+              "RelativeToolTip": "Models\\Dto\\DtoProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T02:12:01.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleFacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Controllers\\DetalleFacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DetalleFacturaController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Controllers\\DetalleFacturaController.cs",
+              "RelativeToolTip": "Controllers\\DetalleFacturaController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAswMYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T01:56:17.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "detallefactura.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\wwwroot\\js\\detallefactura.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\detallefactura.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\wwwroot\\js\\detallefactura.js",
+              "RelativeToolTip": "wwwroot\\js\\detallefactura.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-23T23:32:03.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-23T23:31:54.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\DetalleFactura\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetalleFactura\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\DetalleFactura\\Index.cshtml",
+              "RelativeToolTip": "Views\\DetalleFactura\\Index.cshtml",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAQwJkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T23:27:04.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T23:25:01.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250323210952_initt.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Migrations\\20250323210952_initt.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250323210952_initt.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Migrations\\20250323210952_initt.cs",
+              "RelativeToolTip": "Migrations\\20250323210952_initt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:09:52.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250323205826_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Migrations\\20250323205826_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250323205826_init.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\Migrations\\20250323205826_init.cs",
+              "RelativeToolTip": "Migrations\\20250323205826_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:58:26.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive - UNIANDES\\SEMESTRES\\NIVEL 6\\FASE_2\\PROGRAMACION WEB\\Deberes programas\\SEMANA5\\Roles_Estructuras_Control\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T20:57:07.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

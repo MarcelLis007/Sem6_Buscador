@@ -1,0 +1,150 @@
+﻿@model IEnumerable<Roles_Estructuras_Control2.Models.ProductoModels>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Index</h1>
+<p>
+    <a asp-action="Create">Crear nuevo</a>
+</p>
+
+<!-- botón agregar -->
+<div class="row mb-4">
+    <div class="col-md-8" id="areaProductoSeleccionado">
+     
+    </div>
+    <div class="col-md-4 text-end">
+        <button id="btnAgregarProducto" class="btn btn-success" disabled>
+            <i class="fas fa-plus"></i> Agregar Producto
+        </button>
+    </div>
+</div>
+
+<!-- Tabla Principal donde se agregarán los productos seleccionados -->
+<div class="card mb-4">
+    <div class="card-header bg-primary text-white d-flex justify-content-between">
+        <h5 class="mb-0">Productos Seleccionados</h5>
+        <span>Total: <span id="contadorProductos">0</span> productos</span>
+    </div>
+    <div class="card-body">
+        <table class="table table-responsive table-bordered table-striped" id="tablaProductosPrincipal">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Producto</th>
+                    <th>Cantidad</th>
+                    <th>Precio Unitario</th>
+                    <th>Total</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!--  productos seleccionados -->
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="4" class="text-end fw-bold">Total General:</td>
+                    <td id="totalGeneral" class="fw-bold">$0.00</td>
+                    <td></td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <div class="card-footer">
+        <button id="btnGuardarDatos" class="btn btn-primary">
+            <i class="fas fa-save"></i> Guardar
+        </button>
+    </div>
+</div>
+
+<!-- Tabla de productos que hay osea se lista-->
+<div class="card mb-4">
+    <div class="card-header bg-secondary text-white">
+        <h5 class="mb-0">Lista de Productos</h5>
+    </div>
+    <div class="card-body">
+        <table class="table table-responsive table-bordered table-striped" id="tablaProductos">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Nombre Producto</th>
+                    <th>Presentación</th>
+                    <th>Código de Barras</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+               
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalBuscarProductos">
+    <i class="fas fa-search"></i> Buscar Productos
+</button>
+
+
+<div class="modal fade" id="modalBuscarProductos" tabindex="-1" aria-labelledby="modalBuscarProductosLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalBuscarProductosLabel">Buscar Productos</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+           
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" id="txtBuscarProducto" placeholder="Buscar por nombre...">
+                    <button class="btn btn-outline-secondary" type="button" id="btnBuscarProducto">Buscar</button>
+                </div>
+
+                <table class="table table-striped" id="tablaProductosModal">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Nombre</th>
+                            <th>Presentación</th>
+                            <th>Código de Barras</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                       
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(() => {
+        var html = "";
+        
+        $.get("../../Productos/Tabla", (listaProductos) => {
+           
+            $.each(listaProductos, (index, valor) => {
+                html += `<tr>
+                    <td>${index + 1}</td>
+                    <td>${valor.nombre_Producto}</td>
+                    <td>${valor.presentacion}</td>
+                    <td>${valor.codigoBarras}</td>
+                    <td>
+                        <a class="btn btn-outline-warning" href="/Productos/Edit/${valor.id}">Edit</a> |
+                        <a class="btn btn-outline-info" href="/Productos/Details/${valor.id}">Details</a> |
+                        <a class="btn btn-outline-danger" href="/Productos/Delete/${valor.id}">Delete</a>
+                    </td>
+                </tr>`;
+            });
+            $("#tablaProductos tbody").html(html);
+        });
+    });
+</script>
+<script src="~/js/buscadorProductos.js"></script>

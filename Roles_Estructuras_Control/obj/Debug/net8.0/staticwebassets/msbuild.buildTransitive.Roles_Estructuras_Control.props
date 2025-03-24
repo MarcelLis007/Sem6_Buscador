@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Roles_Estructuras_Control.props" />
+</Project>
